@@ -2,11 +2,11 @@
 - 👀 I’m interested in programming, web development, data science and technology stuff
 - 🌱 I’m currently learning Front-End Technologies and Microservices (Java)
 - 💞️ I’m looking to upgrade analitical and architectural thinking in my projects 
-- 📫 How to reach me ->
-  Mail: antoniolopez.engineer@gmail.com
+- 📫 How to reach me ->\
+  Mail: antoniolopez.engineer@gmail.com\
   Phone: (52) 33 1101 5762
  
-  Here are some links to some of my personal projects:
+  Here are some links to some of my personal projects:\
   Spring Boot Demo App: https://sp-demo-heroku-v2.herokuapp.com/
 -
 
