@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antonio_Lopez
 - 👀 I’m interested in programming, web development, data science and technology stuff
-- 🌱 I’m currently learning AWS, System Design and Microservices (Java, NodeJs)
+- 🌱 I’m currently learning AWS, System Design and improving Microservices implementations (Java, NodeJs)
 - 💞️ I’m looking to upgrade analitical and architectural thinking in my projects 
 - 📫 How to reach me ->
   Mail: antoniolopez.engineer@gmail.com
