@@ -7,6 +7,9 @@
   Phone: (52) 33 1101 5762
  
   Here are some links to some of my personal projects:\
+  AWS projects
+  https://georgelopez.click/
+  
   Spring Boot Demo App: https://sp-demo-heroku-v2.herokuapp.com/
 
 <!---
